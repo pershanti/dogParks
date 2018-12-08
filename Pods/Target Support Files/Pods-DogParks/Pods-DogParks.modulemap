@@ -1,0 +1,6 @@
+framework module Pods_DogParks {
+  umbrella header "Pods-DogParks-umbrella.h"
+
+  export *
+  module * { export * }
+}
